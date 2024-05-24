@@ -22,7 +22,7 @@ Student ID: 11013711
 
 ## GitHub Repository
 1. Created a GitHub account with student email.
-2. Created a repository named ``.
+2. Created a repository named `js-for-react-native-11013711`.
 3. Cloned the repository to local machine.
 4. Committed each task separately.
 5. Ignored node modules.
